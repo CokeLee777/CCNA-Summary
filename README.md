@@ -13,3 +13,4 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### OSI 3계층 - 네트워크층
 
 - [IP 헤더](./section06/01.md)
+- [유니캐스트, 브로드캐스트 및 멀티캐스트 트래픽](./section06/02.md)
