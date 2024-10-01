@@ -11,3 +11,5 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [전송층 헤더, TCP와 UDP](./section05/01.md) 
 
 ### OSI 3계층 - 네트워크층
+
+- [IP 헤더](./section06/01.md)
