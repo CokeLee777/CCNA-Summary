@@ -16,5 +16,11 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [유니캐스트, 브로드캐스트 및 멀티캐스트 트래픽](./section06/02.md)
 - [IPv4 주소](./section06/03.md)
 - [서브넷 마스크](./section06/04.md)
-- [IP 주소 클래스](./section06/05.md)
 
+### IP 주소 클래스
+
+- [IP 주소 클래스](./section07/01.md)
+
+### 서브네팅
+
+- [CIDR 클래스 없는 도메인 간 라우팅](./section08/01.md)
