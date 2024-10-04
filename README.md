@@ -24,3 +24,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### 서브네팅
 
 - [CIDR 클래스 없는 도메인 간 라우팅](./section08/01.md)
+- [서브네팅](./section08/02.md)
+
+
