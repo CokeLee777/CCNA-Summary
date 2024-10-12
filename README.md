@@ -37,4 +37,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 
 - [스위치 vs 허브](./section11/01.md)
 - [라우터](./section11/02.md)
+- [기타 Cisco 장치들](./section11/03.md)
+
 
