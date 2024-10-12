@@ -33,3 +33,8 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### OSI 1계층 - 물리층
 
 - [이더넷 연결 미디어](./section10/01.md)
+### Cisco 장치 기능
+
+- [스위치 vs 허브](./section11/01.md)
+- [라우터](./section11/02.md)
+
