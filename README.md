@@ -27,3 +27,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [서브네팅](./section08/02.md)
 - [클래스 C 네트워크의 서브네팅과 VLSM](./section08/03.md)
 - [Private IP Address](./section08/04.md)
+### OSI 2계층 - 데이터링크층
+
+- [로컬 영역 네트워크 2계층 - 이더넷](./section09/01.md)
