@@ -30,3 +30,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### OSI 2계층 - 데이터링크층
 
 - [로컬 영역 네트워크 2계층 - 이더넷](./section09/01.md)
+### OSI 1계층 - 물리층
+
+- [이더넷 연결 미디어](./section10/01.md)
