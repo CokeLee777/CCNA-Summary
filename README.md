@@ -42,5 +42,7 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 
 - [DNS 도메인 이름 시스템](./section12/01.md)
 - [ARP](./section12/02.md)
+### Cisco 문제 해결 방법론
 
+- [Cisco 문제 해결 방법론](./section13/01.md)
 
