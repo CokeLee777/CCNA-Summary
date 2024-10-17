@@ -45,4 +45,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### Cisco 문제 해결 방법론
 
 - [Cisco 문제 해결 방법론](./section13/01.md)
+### Cisco 라우터와 스위치의 기초
 
+- [라우터 및 스위치 기초 구성](./section14/01.md)
