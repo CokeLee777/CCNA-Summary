@@ -49,4 +49,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 
 - [라우터 및 스위치 기초 구성](./section14/01.md)
 - [속도 및 듀플렉스 설정](./section14/02.md)
+- [CDP와 LLDP](./section14/03.md)
+
 
