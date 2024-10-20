@@ -54,4 +54,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### Cisco 장치 관리
 
 - [부팅 프로세스](./section15/01.md)
+- [공장 초기화 및 비밀번호 복구](./section15/02.md)
+
 
