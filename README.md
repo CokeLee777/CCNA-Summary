@@ -57,7 +57,8 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [공장 초기화 및 비밀번호 복구](./section15/02.md)
 - [시스템 이미지 및 구성의 백업](./section15/03.md)
 - [IOS 업그레이드](./section15/04.md)
+### 라우팅의 기초
 
-
+- [연결된 경로와 로컬 경로](./section16/01.md)
 
 
