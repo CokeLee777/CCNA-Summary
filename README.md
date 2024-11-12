@@ -62,7 +62,9 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [연결된 경로와 로컬 경로](./section16/01.md)
 - [정적 경로](./section16/02.md)
 - [요약 경로 및 Longest Prefix Match](./section16/03.md)
+### 동적 라우팅 프로토콜
 
+- [동적 라우팅 프로토콜 vs 정적 경로](./section17/01.md)
 
 
 
