@@ -66,6 +66,8 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 
 - [동적 라우팅 프로토콜 vs 정적 경로](./section17/01.md)
 - [라우팅 프로토콜의 종류](./section17/02.md)
+- [라우팅 프로토콜 메트릭](./section17/03.md)
+
 
 
 
