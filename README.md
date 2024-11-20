@@ -69,6 +69,7 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [라우팅 프로토콜 메트릭](./section17/03.md)
 - [등가 다중 경로](./section17/04.md)
 - [관리 거리](./section17/05.md)
+- [루프백 인터페이스](./section17/06.md)
 
 
 
