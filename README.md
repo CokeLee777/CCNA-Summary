@@ -70,6 +70,8 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [등가 다중 경로](./section17/04.md)
 - [관리 거리](./section17/05.md)
 - [루프백 인터페이스](./section17/06.md)
+- [인접 인터페이스와 수동 인터페이스](./section17/07.md)
+
 
 
 
