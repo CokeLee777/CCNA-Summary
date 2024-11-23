@@ -71,11 +71,4 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 - [관리 거리](./section17/05.md)
 - [루프백 인터페이스](./section17/06.md)
 - [인접 인터페이스와 수동 인터페이스](./section17/07.md)
-
-
-
-
-
-
-
-
+- [라우팅 우선순위](./section17/08.md)
