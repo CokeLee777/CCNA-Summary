@@ -75,3 +75,6 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### 연결성 문제 해결
 
 - [기본 연결성 문제 해결](./section18/01.md)
+### IGP 내부 게이트웨이 프로토콜의 기초
+
+- [RIP(라우팅 정보 프로토콜)](./section19/01.md)
