@@ -78,3 +78,4 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 ### IGP 내부 게이트웨이 프로토콜의 기초
 
 - [RIP(라우팅 정보 프로토콜)](./section19/01.md)
+- [EIGRP - 강화 내부 게이트웨이 라우팅 프로토콜](./section19/02.md)
