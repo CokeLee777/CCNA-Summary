@@ -79,3 +79,7 @@ Ref: [Cisco CCNA 200-301 – The Complete Guide to Getting Certified](https://ww
 
 - [RIP(라우팅 정보 프로토콜)](./section19/01.md)
 - [EIGRP - 강화 내부 게이트웨이 라우팅 프로토콜](./section19/02.md)
+### OSPF - 최단 경로 우선 프로토콜
+
+- [OSPF의 특징](./section20/01.md)
+- [OSPF 기초 구성](./section20/02.md)
